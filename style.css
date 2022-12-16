@@ -1,0 +1,95 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 75px;
+    padding-top: 1%;
+}
+body{background-color: #D3D8E8;
+    margin: 0%;
+    font-family: Helvetica, Arial, sans-serif;
+    
+
+}
+.main-body{
+    background-color: #D3D8E8;
+}
+.content{
+    width: 100%;
+    height: 100%;
+    background-color: #D3D8E8;
+}
+.left-content{
+    /* background-color: yellow; */
+    width: 50%;
+    height: 100%;
+    margin-left: 13%;
+    float: left;
+    width: 50%;
+    margin-top: 5%;
+    color: #142e5a;
+    font-weight: 900;
+    font-size: larger;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.right-content{
+    width: 453px;
+    /* background-color: red; */
+    height: 273px;
+    float: right;
+}
+.footer{
+
+}
+.logo{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.logo-text{
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 25%;
+    
+}
+.login{
+    float: left;
+    width: 33%;
+    height:100%;
+    font-size:60%;
+    color: #fff;
+    margin-left: 100px;
+}
+.forgot-password{
+    text-decoration: none;
+    color:#9cb4d8;
+    
+}
+.login-button{
+    border-color:#29487d;
+    color:#fff;
+    background-color: #3b5998;
+    border-width: 1pt;
+    cursor:pointer;
+}
+.login-button:hover{
+    background-color:#2b57b6 ;
+}
+.sign-up{
+    font-size: 39px;
+}
+.first-last-name{
+    float:left;
+    /* background-color: #000; */
+}
+.email-pass{
+    float:left;
+    width: 435px;
+    height:28px;
+
+}
+.table-email-pass{
+    width: 200px;
+}
